@@ -1,5 +1,0 @@
-name: cosmic_env
-channels:
-  - defaults
-  - conda-forge
-prefix: /Users/floorbroekgaarden/miniforge3/envs/cosmic_env
