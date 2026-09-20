@@ -1,22 +1,22 @@
-\# GROWL Onboarding Exercises
+# GROWL Onboarding Exercises
 
 
 
-This repository is a standalone copy of \[Floor Broekgaarden’s GROWL Catalog Public repository](https://github.com/FloorBroekgaarden/GROWL-catalog-public), originally created as a fork for completing the GROWL onboarding exercises.
+This repository is a standalone copy of [Floor Broekgaarden’s GROWL Catalog Public repository](https://github.com/FloorBroekgaarden/GROWL-catalog-public), originally created as a fork for completing the GROWL onboarding exercises.
 
 
 
-\## Branches
+## Branches
 
 
 
-\* \*\*`main`\*\* preserves the complete upstream repository and is used to incorporate updates from the original project.
+* * *`main`** preserves the complete upstream repository and is used to incorporate updates from the original project.
 
-\* \*\*`my-work`\*\* contains my completed onboarding exercises and additional exploratory analysis. This is the default branch.
+\* **`my-work`** contains my completed onboarding exercises and additional exploratory analysis. This is the default branch.
 
 
 
-\## My Work
+## My Work
 
 
 
@@ -32,11 +32,8 @@ The original notebooks and other GROWL materials were developed by Floor Broekga
 
 
 
-\## License
+## License
 
 
 
 The original material is distributed under the MIT License. See `LICENSE` for the original copyright and license notice.
-
-
-
