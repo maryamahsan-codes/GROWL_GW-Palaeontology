@@ -10,7 +10,7 @@ This repository is a standalone copy of [Floor Broekgaarden’s GROWL Catalog Pu
 
 
 
-* * *`main`** preserves the complete upstream repository and is used to incorporate updates from the original project.
+* **`main`** preserves the complete upstream repository and is used to incorporate updates from the original project.
 
 * **`my-work`** contains my completed onboarding exercises and additional exploratory analysis. This is the default branch.
 
