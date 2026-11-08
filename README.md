@@ -3,8 +3,9 @@
 This repository is a standalone copy of [Floor Broekgaarden’s GROWL Catalog Public repository](https://github.com/FloorBroekgaarden/GROWL-catalog-public), originally created as a fork for completing the GROWL onboarding exercises.
 
 ## Branches
-* **`main`** preserves the complete upstream repository and is used to incorporate updates from the original project.
 * **`my-work`** contains my completed onboarding exercises and additional exploratory analysis. This is the default branch.
+* **`maryam-project`** contains my filled notebooks for dataset(s) assigned to me for the GROWL Task Force.
+* **`main`** preserves the complete upstream repository and is used to incorporate updates from the original project.
 
 ## My Work
 
